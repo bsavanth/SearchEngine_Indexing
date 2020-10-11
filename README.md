@@ -13,3 +13,20 @@ dict -> Unique terms in all documents, number of documents term has appeared, st
 post -> doc_id, term frequency 
 
 map -> doc_id, doc_name
+
+
+*********************************************
+
+Example Query - > "watchdog"
+
+Hash("watchdog") = 168310
+
+dict[168310]= watchdog 1 152652
+
+post[152652]= 570 1
+
+map[570]= 299.html
+
+watchdog appeared only once in our input files, that is in 299.html
+
+*********************************************
