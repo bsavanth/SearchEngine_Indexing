@@ -1,0 +1,12 @@
+data 956
+foo 1
+hard 1
+html 955
+medium 1
+r 955
+rw 957
+sep 956
+sgauch 956
+simple 1
+total 1
+www 956
